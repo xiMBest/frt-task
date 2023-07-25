@@ -1,5 +1,5 @@
 import { TicketService } from '../domain/ticketService';
-import { Ticket } from '../domain/ticketService';
+import { Ticket } from '../domain/ticket';
 
 export interface TicketData {
   section: string;
